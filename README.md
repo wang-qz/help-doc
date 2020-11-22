@@ -1,2 +1,2 @@
 # help-doc
-api/helo/summary document share
+api/help/summary document share
